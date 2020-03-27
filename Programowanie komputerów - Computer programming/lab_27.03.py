@@ -1,5 +1,5 @@
 def space():
-    print("\n"*3)
+    print("\n"*3) # zdefiniowałem funkcję, żeby nie zaśmiecać kodu wieloma liniami odstępu
 
 nickname = "Hello Wojtek"
 age = 20
@@ -37,7 +37,6 @@ status = ''' HOME OFFICE '''
 _profile_img = ""
 
 me_about_hobby = 'Jag studerar svenska på Duolingo och jag tycker om programmering. Det är min Hobby. Vad tycker du om det?'
-
 
 me_about_job = 'this is me talking about my job'
 
